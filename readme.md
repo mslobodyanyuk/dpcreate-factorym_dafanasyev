@@ -152,7 +152,7 @@ $result[] = $dialogForm->render();
 
 _"- We will see, when we Draw objects we have reported `CheckBoxBootstrap` and `ButtonBootstrap` also reported - "I am drawn"."_
 
-[(6:15)]( https://youtu.be/8SPTu2uhF9s?list=PLoonZ8wII66inyWXuikmI0ANxC9tKgZPY&t=375 ) ЕСЛИ заменим:
+[(6:15)]( https://youtu.be/8SPTu2uhF9s?list=PLoonZ8wII66inyWXuikmI0ANxC9tKgZPY&t=375 ) IF we replace:
 
 ```php
 $dialogForm = new SemanticUiDialogForm();
